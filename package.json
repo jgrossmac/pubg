@@ -1,0 +1,24 @@
+{
+  "name": "pubg",
+  "version": "1.0.0",
+  "description": "NodeJs PUBG API Project",
+  "main": "pubg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrossmac/pubg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrossmac/pubg/issues"
+  },
+  "homepage": "https://github.com/jgrossmac/pubg#readme",
+  "dependencies": {
+    "help": "^3.0.2",
+    "pubg-api": "^1.1.2",
+    "request": "^2.85.0"
+  }
+}
